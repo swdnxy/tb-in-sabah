@@ -14,8 +14,8 @@ Split across four speakers. Times are cumulative. **Rehearse twice with a stopwa
 ## Live demo script (75 seconds, dashboard lead)
 
 1. **Map tab** (20 s). "Darker means more likely missed cases per person. Kinabatangan, Tongod and
-   Beluran stand out." *Hover Kinabatangan:* "It notifies about 70 per 100k. With good access we'd
-   expect closer to 160. Most of its TB patients are non-citizens, and it's 39 km from a specialist
+   Beluran stand out." *Hover Kinabatangan:* "It notifies about 63 per 100k. Under our assumptions we'd
+   expect about 150. Most of its TB patients are non-citizens, and it's 39 km from a specialist
    hospital by straight line, much further by road."
 2. **Point at the blue banner** (5 s). "Every screen tells you where the data came from: real, digitised
    from the published paper."
