@@ -1,0 +1,49 @@
+{
+  "chosen_method": "index",
+  "access_coef_per_sd": -0.0553527600260163,
+  "access_p": 0.5116430618905147,
+  "alpha": 0.05459025345746317,
+  "n_obs": 175,
+  "n_districts": 25,
+  "se_type": "cluster-robust by district",
+  "coefficients": {
+    "Intercept": {
+      "coef": -6.666649812803439,
+      "se": 0.0427615916112922,
+      "p": 0.0,
+      "irr": 0.0012726552503165831
+    },
+    "poverty_rate_z": {
+      "coef": 0.11758624872551506,
+      "se": 0.0622001528335929,
+      "p": 0.058697866565146965,
+      "irr": 1.124778636484211
+    },
+    "noncitizen_share_z": {
+      "coef": -0.09520038184127647,
+      "se": 0.07156269251667745,
+      "p": 0.1834169988780816,
+      "irr": 0.9091907309009685
+    },
+    "log_pop_density_z": {
+      "coef": 0.1596442583228872,
+      "se": 0.047444879808217585,
+      "p": 0.0007658905841253024,
+      "irr": 1.1730934785128055
+    },
+    "dist_to_hospital_km_z": {
+      "coef": -0.0553527600260163,
+      "se": 0.08434302309342445,
+      "p": 0.5116430618905147,
+      "irr": 0.9461513247112773
+    },
+    "t": {
+      "coef": 0.004557767789100192,
+      "se": 0.0071346342161643156,
+      "p": 0.5229381428520331,
+      "irr": 1.0045681702106461
+    }
+  },
+  "reason": "Access coefficient -0.055/SD (p=0.51) is not significant with only 25 districts, so the data cannot separate missed cases from genuinely lower transmission in remote areas. Following our pre-registered rule we lead with the transparent scoring index and show the GLM as exploratory.",
+  "forecast_dispersion_mult": 3.0
+}
