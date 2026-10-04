@@ -1,0 +1,176 @@
+district,year,population,cases_notified,notif_rate,noncitizen_share,poverty_rate,log_pop_density,dist_to_hospital_km,dist_area_mean_km,nearest_hospital,rate_bin,source,digitise_low_conf,data_source
+Beaufort,2012,75352,75,100.0,0.145,0.198,3.7256210732036994,46.3,53.3,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Beaufort,2013,76379,76,100.0,0.145,0.198,3.739158394962273,46.3,53.3,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Beaufort,2014,77407,77,100.0,0.145,0.198,3.752527821465966,46.3,53.3,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Beaufort,2015,78435,78,100.0,0.145,0.198,3.765720861991387,46.3,53.3,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Beaufort,2016,79462,111,140.0,0.145,0.198,3.778729525649683,46.3,53.3,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Beaufort,2017,80490,113,140.0,0.145,0.198,3.791583558788826,46.3,53.3,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Beaufort,2018,81517,114,140.0,0.145,0.198,3.804262193135404,46.3,53.3,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Beluran,2012,117638,78,66.0,0.345,0.35006827582824224,2.7275718819902073,56.5,89.9,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Beluran,2013,117608,118,100.0,0.345,0.35006827582824224,2.7273168298306585,56.5,89.9,Hospital Duchess of Kent,80-119,fig2_bin_midpoint,False,digitised
+Beluran,2014,117580,118,100.0,0.345,0.35006827582824224,2.7270787224431023,56.5,89.9,Hospital Duchess of Kent,80-119,fig2_bin_midpoint,False,digitised
+Beluran,2015,117550,78,66.0,0.345,0.35006827582824224,2.7268235444550717,56.5,89.9,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Beluran,2016,117520,118,100.0,0.345,0.35006827582824224,2.7265683013346154,56.5,89.9,Hospital Duchess of Kent,80-119,fig2_bin_midpoint,False,digitised
+Beluran,2017,117491,78,66.0,0.345,0.35006827582824224,2.7263215043749223,56.5,89.9,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Beluran,2018,117461,78,66.0,0.345,0.35006827582824224,2.7260661330636498,56.5,89.9,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Keningau,2012,190259,266,140.0,0.145,0.188,3.945927774175295,0.8,27.1,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Keningau,2013,187301,262,140.0,0.145,0.188,3.930258420840405,0.8,27.1,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Keningau,2014,184342,258,140.0,0.145,0.188,3.914334200400177,0.8,27.1,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Keningau,2015,181383,254,140.0,0.145,0.188,3.8981522901200227,0.8,27.1,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Keningau,2016,178423,250,140.0,0.145,0.188,3.8816986079790885,0.8,27.1,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Keningau,2017,175464,316,180.0,0.145,0.188,3.8649753660354422,0.8,27.1,Hospital Keningau,160-199,fig2_bin_midpoint,False,digitised
+Keningau,2018,172506,242,140.0,0.145,0.188,3.847973490851527,0.8,27.1,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Kinabatangan,2012,164333,108,66.0,0.62,0.289,3.106520414677442,38.7,55.4,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Kinabatangan,2013,163536,108,66.0,0.62,0.289,3.101658707289205,38.7,55.4,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Kinabatangan,2014,162740,107,66.0,0.62,0.289,3.0967793929709955,38.7,55.4,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Kinabatangan,2015,161944,107,66.0,0.62,0.289,3.0918761541617608,38.7,55.4,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Kinabatangan,2016,161147,106,66.0,0.62,0.289,3.086942549594557,38.7,55.4,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Kinabatangan,2017,160350,106,66.0,0.62,0.289,3.0819844838416484,38.7,55.4,Hospital Duchess of Kent,0-79,fig2_bin_midpoint,False,digitised
+Kinabatangan,2018,159555,89,56.0,0.62,0.289,3.0770142480742226,38.7,55.4,Hospital Duchess of Kent,0-79,paper_text_exact,False,digitised
+Kota Belud,2012,105954,148,140.0,0.025,0.278,4.3738982635309265,58.5,64.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Belud,2013,107505,151,140.0,0.025,0.278,4.388430583985876,58.5,64.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Belud,2014,109057,153,140.0,0.025,0.278,4.402763907197579,58.5,64.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Belud,2015,110610,155,140.0,0.025,0.278,4.416903726786047,58.5,64.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Belud,2016,112162,157,140.0,0.025,0.278,4.430837480668226,58.5,64.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Belud,2017,113714,159,140.0,0.025,0.278,4.4445797500949835,58.5,64.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Belud,2018,115266,115,100.0,0.025,0.278,4.458135726746245,58.5,64.0,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Kota Kinabalu,2012,519271,727,140.0,0.345,0.10300000000000001,7.309107041598714,3.0,13.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Kinabalu,2013,523405,733,140.0,0.345,0.10300000000000001,7.31703667968734,3.0,13.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Kinabalu,2014,527539,739,140.0,0.345,0.10300000000000001,7.324903932980282,3.0,13.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,True,digitised
+Kota Kinabalu,2015,531674,744,140.0,0.345,0.10300000000000001,7.332711656272888,3.0,13.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,True,digitised
+Kota Kinabalu,2016,535809,750,140.0,0.345,0.10300000000000001,7.340458890995594,3.0,13.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Kinabalu,2017,539943,972,180.0,0.345,0.10300000000000001,7.348144715145113,3.0,13.7,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,True,digitised
+Kota Kinabalu,2018,544077,904,166.2,0.345,0.10300000000000001,7.3557719176708956,3.0,13.7,Queen Elizabeth Hospital,120-159,paper_text_exact,True,digitised
+Kota Marudu,2012,75649,106,140.0,0.045,0.499,3.7311975636789816,95.9,97.2,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kota Marudu,2013,75786,136,180.0,0.045,0.499,3.733006921322533,95.9,97.2,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Kota Marudu,2014,75922,137,180.0,0.045,0.499,3.734799839776822,95.9,97.2,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Kota Marudu,2015,76058,137,180.0,0.045,0.499,3.7365895494267938,95.9,97.2,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Kota Marudu,2016,76195,137,180.0,0.045,0.499,3.7383891860444636,95.9,97.2,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Kota Marudu,2017,76332,137,180.0,0.045,0.499,3.7401855897873073,95.9,97.2,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Kota Marudu,2018,76469,138,180.0,0.045,0.499,3.741978772249599,95.9,97.2,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Kuala Penyu,2012,22388,15,66.0,0.045,0.17600000000000002,4.037885189804036,67.7,76.5,Hospital Keningau,0-79,fig2_bin_midpoint,True,digitised
+Kuala Penyu,2013,22860,23,100.0,0.045,0.17600000000000002,4.058748747141587,67.7,76.5,Hospital Keningau,80-119,fig2_bin_midpoint,True,digitised
+Kuala Penyu,2014,23334,15,66.0,0.045,0.17600000000000002,4.079271613176587,67.7,76.5,Hospital Keningau,0-79,fig2_bin_midpoint,True,digitised
+Kuala Penyu,2015,23806,16,66.0,0.045,0.17600000000000002,4.09929773852061,67.7,76.5,Hospital Keningau,0-79,fig2_bin_midpoint,True,digitised
+Kuala Penyu,2016,24278,24,100.0,0.045,0.17600000000000002,4.118930679250534,67.7,76.5,Hospital Keningau,80-119,fig2_bin_midpoint,True,digitised
+Kuala Penyu,2017,24752,35,140.0,0.045,0.17600000000000002,4.138266382605632,67.7,76.5,Hospital Keningau,120-159,fig2_bin_midpoint,True,digitised
+Kuala Penyu,2018,25224,17,66.0,0.045,0.17600000000000002,4.157156011017682,67.7,76.5,Hospital Keningau,0-79,fig2_bin_midpoint,True,digitised
+Kudat,2012,94488,132,140.0,0.145,0.34700000000000003,4.29317775776487,133.3,149.5,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kudat,2013,94599,132,140.0,0.145,0.34700000000000003,4.294351820632761,133.3,149.5,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kudat,2014,94710,95,100.0,0.145,0.34700000000000003,4.295524506693334,133.3,149.5,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Kudat,2015,94821,95,100.0,0.145,0.34700000000000003,4.296695819171934,133.3,149.5,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Kudat,2016,94932,133,140.0,0.145,0.34700000000000003,4.2978657612825835,133.3,149.5,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Kudat,2017,95043,95,100.0,0.145,0.34700000000000003,4.29903433622804,133.3,149.5,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Kudat,2018,95154,95,100.0,0.145,0.34700000000000003,4.300201547199843,133.3,149.5,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Kunak,2012,70706,71,100.0,0.545,0.254,4.043488722794057,38.5,44.4,Hospital Lahad Datu,80-119,fig2_bin_midpoint,False,digitised
+Kunak,2013,71374,100,140.0,0.545,0.254,4.052891945233139,38.5,44.4,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Kunak,2014,72040,72,100.0,0.545,0.254,4.0621798081707485,38.5,44.4,Hospital Lahad Datu,80-119,fig2_bin_midpoint,False,digitised
+Kunak,2015,72707,73,100.0,0.545,0.254,4.071395953874547,38.5,44.4,Hospital Lahad Datu,80-119,fig2_bin_midpoint,False,digitised
+Kunak,2016,73374,103,140.0,0.545,0.254,4.080527937298282,38.5,44.4,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Kunak,2017,74040,104,140.0,0.545,0.254,4.0895637755682905,38.5,44.4,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Kunak,2018,74708,75,100.0,0.545,0.254,4.098545469314354,38.5,44.4,Hospital Lahad Datu,80-119,fig2_bin_midpoint,False,digitised
+Lahad Datu,2012,233243,327,140.0,0.545,0.235,3.44924747676002,1.6,51.8,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Lahad Datu,2013,235702,330,140.0,0.545,0.235,3.4597349434698454,1.6,51.8,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Lahad Datu,2014,238161,333,140.0,0.545,0.235,3.4701135637576277,1.6,51.8,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Lahad Datu,2015,240620,337,140.0,0.545,0.235,3.4803855738063896,1.6,51.8,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Lahad Datu,2016,243079,340,140.0,0.545,0.235,3.490553141587727,1.6,51.8,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Lahad Datu,2017,245538,344,140.0,0.545,0.235,3.500618369608159,1.6,51.8,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Lahad Datu,2018,247997,347,140.0,0.545,0.235,3.5105832975186333,1.6,51.8,Hospital Lahad Datu,120-159,fig2_bin_midpoint,False,digitised
+Nabawan,2012,34787,63,180.0,0.025,0.271,1.7144731770912065,45.0,88.8,Hospital Keningau,160-199,fig2_bin_midpoint,False,digitised
+Nabawan,2013,34350,48,140.0,0.025,0.271,1.7018314419896479,45.0,88.8,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Nabawan,2014,33913,47,140.0,0.025,0.271,1.6890278450236733,45.0,88.8,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Nabawan,2015,33476,47,140.0,0.025,0.271,1.6760581874919172,45.0,88.8,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Nabawan,2016,33039,46,140.0,0.025,0.271,1.6629181051722062,45.0,88.8,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Nabawan,2017,32602,59,180.0,0.025,0.271,1.6496030595053877,45.0,88.8,Hospital Keningau,160-199,fig2_bin_midpoint,False,digitised
+Nabawan,2018,32165,45,140.0,0.025,0.271,1.6361083281842532,45.0,88.8,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Papar,2012,146669,205,140.0,0.245,0.162,4.723206906102465,29.7,29.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Papar,2013,149123,209,140.0,0.245,0.162,4.739800027654575,29.7,29.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Papar,2014,151577,212,140.0,0.245,0.162,4.756122305552711,29.7,29.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Papar,2015,154030,216,140.0,0.245,0.162,4.772175947530274,29.7,29.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Papar,2016,156485,282,180.0,0.245,0.162,4.787988717635165,29.7,29.3,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Papar,2017,158939,223,140.0,0.245,0.162,4.803549039703753,29.7,29.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Papar,2018,161392,161,100.0,0.245,0.162,4.818864747206387,29.7,29.3,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Penampang,2012,146983,206,140.0,0.145,0.067,5.8369478440552545,5.5,17.8,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Penampang,2013,150985,151,100.0,0.145,0.067,5.863811404354824,5.5,17.8,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Penampang,2014,154987,217,140.0,0.145,0.067,5.889972152656704,5.5,17.8,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Penampang,2015,158991,223,140.0,0.145,0.067,5.915478507067158,5.5,17.8,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Penampang,2016,162993,228,140.0,0.145,0.067,5.940338165321898,5.5,17.8,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Penampang,2017,166995,234,140.0,0.145,0.067,5.964594782071346,5.5,17.8,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Penampang,2018,170997,239,140.0,0.145,0.067,5.988276922711681,5.5,17.8,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Pitas,2012,42322,59,140.0,0.025,0.527,3.324875120160901,137.1,137.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Pitas,2013,42090,59,140.0,0.025,0.527,3.3193782575308,137.1,137.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Pitas,2014,41857,59,140.0,0.025,0.527,3.3138271217349677,137.1,137.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Pitas,2015,41625,58,140.0,0.025,0.527,3.308269023048929,137.1,137.3,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Pitas,2016,41393,75,180.0,0.025,0.527,3.302679859157992,137.1,137.3,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Pitas,2017,41160,74,180.0,0.025,0.527,3.29703498571417,137.1,137.3,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Pitas,2018,40929,93,228.0,0.025,0.527,3.291406932997168,137.1,137.3,Queen Elizabeth Hospital,200-229,paper_text_exact,False,digitised
+Putatan,2012,64518,90,140.0,0.345,0.129,7.513127674328546,8.2,8.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,True,digitised
+Putatan,2013,65948,142,215.0,0.345,0.129,7.535049972391033,8.2,8.7,Queen Elizabeth Hospital,200-229,fig2_bin_midpoint,True,digitised
+Putatan,2014,67377,145,215.0,0.345,0.129,7.556487133081797,8.2,8.7,Queen Elizabeth Hospital,200-229,fig2_bin_midpoint,True,digitised
+Putatan,2015,68806,96,140.0,0.345,0.129,7.577474370131215,8.2,8.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,True,digitised
+Putatan,2016,70235,98,140.0,0.345,0.129,7.598030181974974,8.2,8.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,True,digitised
+Putatan,2017,71664,100,140.0,0.345,0.129,7.618171949157046,8.2,8.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,True,digitised
+Putatan,2018,73093,102,140.0,0.345,0.129,7.6379160226287,8.2,8.7,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,True,digitised
+Ranau,2012,103373,145,140.0,0.045,0.254,3.288927237511851,64.3,78.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Ranau,2013,102190,143,140.0,0.045,0.254,3.277417257016754,64.3,78.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Ranau,2014,101006,101,100.0,0.045,0.254,3.2657633524100267,64.3,78.0,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Ranau,2015,99822,100,100.0,0.045,0.254,3.253972031298297,64.3,78.0,Queen Elizabeth Hospital,80-119,fig2_bin_midpoint,False,digitised
+Ranau,2016,98639,138,140.0,0.045,0.254,3.242050152322235,64.3,78.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Ranau,2017,97456,136,140.0,0.045,0.254,3.2299844254867653,64.3,78.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Ranau,2018,96272,135,140.0,0.045,0.254,3.2177609498706325,64.3,78.0,Queen Elizabeth Hospital,120-159,fig2_bin_midpoint,False,digitised
+Sandakan,2012,458123,641,140.0,0.345,0.177,5.350893250794926,5.9,24.3,Hospital Duchess of Kent,120-159,fig2_bin_midpoint,False,digitised
+Sandakan,2013,461433,646,140.0,0.345,0.177,5.358092408422829,5.9,24.3,Hospital Duchess of Kent,120-159,fig2_bin_midpoint,False,digitised
+Sandakan,2014,464744,651,140.0,0.345,0.177,5.365242260135736,5.9,24.3,Hospital Duchess of Kent,120-159,fig2_bin_midpoint,False,digitised
+Sandakan,2015,468054,468,100.0,0.345,0.177,5.372339217661015,5.9,24.3,Hospital Duchess of Kent,80-119,fig2_bin_midpoint,False,digitised
+Sandakan,2016,471364,471,100.0,0.345,0.177,5.37938616310536,5.9,24.3,Hospital Duchess of Kent,80-119,fig2_bin_midpoint,False,digitised
+Sandakan,2017,474676,475,100.0,0.345,0.177,5.386388009816123,5.9,24.3,Hospital Duchess of Kent,80-119,fig2_bin_midpoint,False,digitised
+Sandakan,2018,477986,478,100.0,0.345,0.177,5.393336987143881,5.9,24.3,Hospital Duchess of Kent,80-119,fig2_bin_midpoint,False,digitised
+Semporna,2012,158514,341,215.0,0.445,0.28,4.948247804135578,68.3,58.0,Hospital Lahad Datu,200-229,fig2_bin_midpoint,False,digitised
+Semporna,2013,161684,291,180.0,0.445,0.28,4.968048699660169,68.3,58.0,Hospital Lahad Datu,160-199,fig2_bin_midpoint,False,digitised
+Semporna,2014,164854,297,180.0,0.445,0.28,4.987465120349453,68.3,58.0,Hospital Lahad Datu,160-199,fig2_bin_midpoint,False,digitised
+Semporna,2015,168024,302,180.0,0.445,0.28,5.006511712986234,68.3,58.0,Hospital Lahad Datu,160-199,fig2_bin_midpoint,False,digitised
+Semporna,2016,171193,368,215.0,0.445,0.28,5.025196461664471,68.3,58.0,Hospital Lahad Datu,200-229,fig2_bin_midpoint,False,digitised
+Semporna,2017,174363,375,215.0,0.445,0.28,5.043544219646544,68.3,58.0,Hospital Lahad Datu,200-229,fig2_bin_midpoint,False,digitised
+Semporna,2018,177533,405,228.0,0.445,0.28,5.0615613937715125,68.3,58.0,Hospital Lahad Datu,200-229,paper_text_exact,False,digitised
+Sipitang,2012,39931,40,100.0,0.145,0.221,2.7310288253468467,74.0,93.5,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Sipitang,2013,40158,56,140.0,0.145,0.221,2.7366975341051716,74.0,93.5,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Sipitang,2014,40387,57,140.0,0.145,0.221,2.7423838117645043,74.0,93.5,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Sipitang,2015,40614,41,100.0,0.145,0.221,2.747988695513137,74.0,93.5,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Sipitang,2016,40841,57,140.0,0.145,0.221,2.753562339553541,74.0,93.5,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Sipitang,2017,41070,57,140.0,0.145,0.221,2.7591537887270787,74.0,93.5,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Sipitang,2018,41297,41,100.0,0.145,0.221,2.764665718862061,74.0,93.5,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tambunan,2012,39020,55,140.0,0.045,0.09,3.382767930305136,42.3,42.4,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Tambunan,2013,38499,38,100.0,0.045,0.09,3.3693258620406046,42.3,42.4,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tambunan,2014,37977,38,100.0,0.045,0.09,3.3556743084329717,42.3,42.4,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tambunan,2015,37456,52,140.0,0.045,0.09,3.3418605058587256,42.3,42.4,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Tambunan,2016,36935,52,140.0,0.045,0.09,3.327853206090872,42.3,42.4,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Tambunan,2017,36413,51,140.0,0.045,0.09,3.313619448849679,42.3,42.4,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Tambunan,2018,35892,50,140.0,0.045,0.09,3.2992080245459823,42.3,42.4,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Tawau,2012,457027,457,100.0,0.345,0.1554804234804802,4.317786467440896,0.8,49.0,Hospital Tawau,80-119,fig2_bin_midpoint,False,digitised
+Tawau,2013,457958,458,100.0,0.345,0.1554804234804802,4.319821474181536,0.8,49.0,Hospital Tawau,80-119,fig2_bin_midpoint,False,digitised
+Tawau,2014,458889,459,100.0,0.345,0.1554804234804802,4.321852348078682,0.8,49.0,Hospital Tawau,80-119,fig2_bin_midpoint,False,digitised
+Tawau,2015,459819,460,100.0,0.345,0.1554804234804802,4.323876931118489,0.8,49.0,Hospital Tawau,80-119,fig2_bin_midpoint,False,digitised
+Tawau,2016,460751,461,100.0,0.345,0.1554804234804802,4.325901764251069,0.8,49.0,Hospital Tawau,80-119,fig2_bin_midpoint,False,digitised
+Tawau,2017,461682,462,100.0,0.345,0.1554804234804802,4.327920339727282,0.8,49.0,Hospital Tawau,80-119,fig2_bin_midpoint,False,digitised
+Tawau,2018,462613,463,100.0,0.345,0.1554804234804802,4.329934848763579,0.8,49.0,Hospital Tawau,80-119,fig2_bin_midpoint,False,digitised
+Tenom,2012,61306,61,100.0,0.145,0.158,3.3452987093577335,34.1,57.8,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tenom,2013,60725,61,100.0,0.145,0.158,3.33577646681145,34.1,57.8,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tenom,2014,60143,60,100.0,0.145,0.158,3.326146051844373,34.1,57.8,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tenom,2015,59561,83,140.0,0.145,0.158,3.3164219893898816,34.1,57.8,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Tenom,2016,58981,83,140.0,0.145,0.158,3.306636350066577,34.1,57.8,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Tenom,2017,58399,58,100.0,0.145,0.158,3.296719758323119,34.1,57.8,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tenom,2018,57817,58,100.0,0.145,0.158,3.286703842004488,34.1,57.8,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tongod,2012,41393,27,66.0,0.145,0.508,1.410832183880175,90.0,89.9,Hospital Keningau,0-79,fig2_bin_midpoint,False,digitised
+Tongod,2013,42116,28,66.0,0.145,0.508,1.4281481154650169,90.0,89.9,Hospital Keningau,0-79,fig2_bin_midpoint,False,digitised
+Tongod,2014,42839,60,140.0,0.145,0.508,1.4451693021072063,90.0,89.9,Hospital Keningau,120-159,fig2_bin_midpoint,False,digitised
+Tongod,2015,43562,44,100.0,0.145,0.508,1.4619056101635404,90.0,89.9,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tongod,2016,44285,44,100.0,0.145,0.508,1.4783664187320502,90.0,89.9,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tongod,2017,45008,45,100.0,0.145,0.508,1.494560651218005,90.0,89.9,Hospital Keningau,80-119,fig2_bin_midpoint,False,digitised
+Tongod,2018,45731,24,53.0,0.145,0.508,1.5104968043844307,90.0,89.9,Hospital Keningau,0-79,paper_text_exact,False,digitised
+Tuaran,2012,123049,221,180.0,0.145,0.258,4.69735835766529,29.7,32.9,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Tuaran,2013,126385,227,180.0,0.145,0.258,4.724108511423714,29.7,32.9,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Tuaran,2014,129722,233,180.0,0.145,0.258,4.750169406782247,29.7,32.9,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Tuaran,2015,133059,240,180.0,0.145,0.258,4.775568346517897,29.7,32.9,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Tuaran,2016,136395,246,180.0,0.145,0.258,4.800330795484966,29.7,32.9,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Tuaran,2017,139732,252,180.0,0.145,0.258,4.8245020099474445,29.7,32.9,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised
+Tuaran,2018,143069,258,180.0,0.145,0.258,4.8481027390072775,29.7,32.9,Queen Elizabeth Hospital,160-199,fig2_bin_midpoint,False,digitised

@@ -1,0 +1,176 @@
+district,year,notif_rate,rate_bin,source,vote_share,n_pixels
+Beaufort,2012,100.0,80-119,fig2_bin_midpoint,0.96,178
+Beluran,2012,66.0,0-79,fig2_bin_midpoint,1.0,805
+Keningau,2012,140.0,120-159,fig2_bin_midpoint,0.89,384
+Kinabatangan,2012,66.0,0-79,fig2_bin_midpoint,0.99,768
+Kota Belud,2012,140.0,120-159,fig2_bin_midpoint,0.95,120
+Kota Kinabalu,2012,140.0,120-159,fig2_bin_midpoint,0.75,20
+Kota Marudu,2012,140.0,120-159,fig2_bin_midpoint,0.97,180
+Kuala Penyu,2012,66.0,0-79,fig2_bin_midpoint,1.0,16
+Kudat,2012,140.0,120-159,fig2_bin_midpoint,0.93,93
+Kunak,2012,100.0,80-119,fig2_bin_midpoint,0.88,115
+Lahad Datu,2012,140.0,120-159,fig2_bin_midpoint,0.88,774
+Nabawan,2012,180.0,160-199,fig2_bin_midpoint,0.96,679
+Papar,2012,140.0,120-159,fig2_bin_midpoint,0.95,116
+Penampang,2012,140.0,120-159,fig2_bin_midpoint,0.97,32
+Pitas,2012,140.0,120-159,fig2_bin_midpoint,0.95,150
+Putatan,2012,140.0,120-159,fig2_bin_midpoint,0.83,7
+Ranau,2012,140.0,120-159,fig2_bin_midpoint,0.97,410
+Sandakan,2012,140.0,120-159,fig2_bin_midpoint,0.88,179
+Semporna,2012,215.0,200-229,fig2_bin_midpoint,0.98,89
+Sipitang,2012,100.0,80-119,fig2_bin_midpoint,0.97,245
+Tambunan,2012,140.0,120-159,fig2_bin_midpoint,0.98,129
+Tawau,2012,100.0,80-119,fig2_bin_midpoint,0.97,617
+Tenom,2012,100.0,80-119,fig2_bin_midpoint,1.0,203
+Tongod,2012,66.0,0-79,fig2_bin_midpoint,1.0,1130
+Tuaran,2012,180.0,160-199,fig2_bin_midpoint,0.94,98
+Beaufort,2013,100.0,80-119,fig2_bin_midpoint,0.96,179
+Beluran,2013,100.0,80-119,fig2_bin_midpoint,0.98,808
+Keningau,2013,140.0,120-159,fig2_bin_midpoint,0.91,376
+Kinabatangan,2013,66.0,0-79,fig2_bin_midpoint,0.97,768
+Kota Belud,2013,140.0,120-159,fig2_bin_midpoint,0.92,115
+Kota Kinabalu,2013,140.0,120-159,fig2_bin_midpoint,0.95,21
+Kota Marudu,2013,180.0,160-199,fig2_bin_midpoint,0.9,178
+Kuala Penyu,2013,100.0,80-119,fig2_bin_midpoint,0.75,15
+Kudat,2013,140.0,120-159,fig2_bin_midpoint,0.88,86
+Kunak,2013,140.0,120-159,fig2_bin_midpoint,0.91,109
+Lahad Datu,2013,140.0,120-159,fig2_bin_midpoint,0.89,760
+Nabawan,2013,140.0,120-159,fig2_bin_midpoint,0.98,668
+Papar,2013,140.0,120-159,fig2_bin_midpoint,0.93,115
+Penampang,2013,100.0,80-119,fig2_bin_midpoint,0.94,31
+Pitas,2013,140.0,120-159,fig2_bin_midpoint,0.92,147
+Putatan,2013,215.0,200-229,fig2_bin_midpoint,0.6,7
+Ranau,2013,140.0,120-159,fig2_bin_midpoint,0.97,393
+Sandakan,2013,140.0,120-159,fig2_bin_midpoint,0.85,178
+Semporna,2013,180.0,160-199,fig2_bin_midpoint,0.72,89
+Sipitang,2013,140.0,120-159,fig2_bin_midpoint,1.0,241
+Tambunan,2013,100.0,80-119,fig2_bin_midpoint,0.98,133
+Tawau,2013,100.0,80-119,fig2_bin_midpoint,0.98,611
+Tenom,2013,100.0,80-119,fig2_bin_midpoint,1.0,203
+Tongod,2013,66.0,0-79,fig2_bin_midpoint,0.99,1139
+Tuaran,2013,180.0,160-199,fig2_bin_midpoint,0.9,103
+Beaufort,2014,100.0,80-119,fig2_bin_midpoint,0.98,182
+Beluran,2014,100.0,80-119,fig2_bin_midpoint,0.98,819
+Keningau,2014,140.0,120-159,fig2_bin_midpoint,0.96,387
+Kinabatangan,2014,66.0,0-79,fig2_bin_midpoint,0.94,779
+Kota Belud,2014,140.0,120-159,fig2_bin_midpoint,0.9,125
+Kota Kinabalu,2014,140.0,120-159,fig2_bin_midpoint,0.84,19
+Kota Marudu,2014,180.0,160-199,fig2_bin_midpoint,0.96,177
+Kuala Penyu,2014,66.0,0-79,fig2_bin_midpoint,1.0,15
+Kudat,2014,100.0,80-119,fig2_bin_midpoint,0.94,95
+Kunak,2014,100.0,80-119,fig2_bin_midpoint,0.95,109
+Lahad Datu,2014,140.0,120-159,fig2_bin_midpoint,0.9,760
+Nabawan,2014,140.0,120-159,fig2_bin_midpoint,0.98,678
+Papar,2014,140.0,120-159,fig2_bin_midpoint,0.93,117
+Penampang,2014,140.0,120-159,fig2_bin_midpoint,0.94,34
+Pitas,2014,140.0,120-159,fig2_bin_midpoint,0.94,149
+Putatan,2014,215.0,200-229,fig2_bin_midpoint,0.6,6
+Ranau,2014,100.0,80-119,fig2_bin_midpoint,0.98,408
+Sandakan,2014,140.0,120-159,fig2_bin_midpoint,0.85,173
+Semporna,2014,180.0,160-199,fig2_bin_midpoint,0.77,87
+Sipitang,2014,140.0,120-159,fig2_bin_midpoint,0.98,252
+Tambunan,2014,100.0,80-119,fig2_bin_midpoint,0.99,126
+Tawau,2014,100.0,80-119,fig2_bin_midpoint,0.97,609
+Tenom,2014,100.0,80-119,fig2_bin_midpoint,0.99,209
+Tongod,2014,140.0,120-159,fig2_bin_midpoint,0.98,1142
+Tuaran,2014,180.0,160-199,fig2_bin_midpoint,0.94,97
+Beaufort,2015,100.0,80-119,fig2_bin_midpoint,0.96,179
+Beluran,2015,66.0,0-79,fig2_bin_midpoint,1.0,808
+Keningau,2015,140.0,120-159,fig2_bin_midpoint,0.9,374
+Kinabatangan,2015,66.0,0-79,fig2_bin_midpoint,0.98,776
+Kota Belud,2015,140.0,120-159,fig2_bin_midpoint,0.92,115
+Kota Kinabalu,2015,140.0,120-159,fig2_bin_midpoint,0.94,18
+Kota Marudu,2015,180.0,160-199,fig2_bin_midpoint,0.94,176
+Kuala Penyu,2015,66.0,0-79,fig2_bin_midpoint,1.0,13
+Kudat,2015,100.0,80-119,fig2_bin_midpoint,0.87,98
+Kunak,2015,100.0,80-119,fig2_bin_midpoint,0.89,114
+Lahad Datu,2015,140.0,120-159,fig2_bin_midpoint,0.89,780
+Nabawan,2015,140.0,120-159,fig2_bin_midpoint,0.97,677
+Papar,2015,140.0,120-159,fig2_bin_midpoint,0.96,117
+Penampang,2015,140.0,120-159,fig2_bin_midpoint,0.97,32
+Pitas,2015,140.0,120-159,fig2_bin_midpoint,0.94,150
+Putatan,2015,140.0,120-159,fig2_bin_midpoint,0.5,8
+Ranau,2015,100.0,80-119,fig2_bin_midpoint,0.98,406
+Sandakan,2015,100.0,80-119,fig2_bin_midpoint,0.94,185
+Semporna,2015,180.0,160-199,fig2_bin_midpoint,0.73,93
+Sipitang,2015,100.0,80-119,fig2_bin_midpoint,0.99,245
+Tambunan,2015,140.0,120-159,fig2_bin_midpoint,0.98,128
+Tawau,2015,100.0,80-119,fig2_bin_midpoint,0.98,606
+Tenom,2015,140.0,120-159,fig2_bin_midpoint,0.98,200
+Tongod,2015,100.0,80-119,fig2_bin_midpoint,0.98,1145
+Tuaran,2015,180.0,160-199,fig2_bin_midpoint,0.91,101
+Beaufort,2016,140.0,120-159,fig2_bin_midpoint,0.96,181
+Beluran,2016,100.0,80-119,fig2_bin_midpoint,0.97,809
+Keningau,2016,140.0,120-159,fig2_bin_midpoint,0.89,395
+Kinabatangan,2016,66.0,0-79,fig2_bin_midpoint,0.95,779
+Kota Belud,2016,140.0,120-159,fig2_bin_midpoint,0.92,119
+Kota Kinabalu,2016,140.0,120-159,fig2_bin_midpoint,0.81,21
+Kota Marudu,2016,180.0,160-199,fig2_bin_midpoint,0.94,182
+Kuala Penyu,2016,100.0,80-119,fig2_bin_midpoint,0.71,14
+Kudat,2016,140.0,120-159,fig2_bin_midpoint,0.94,88
+Kunak,2016,140.0,120-159,fig2_bin_midpoint,0.9,110
+Lahad Datu,2016,140.0,120-159,fig2_bin_midpoint,0.9,758
+Nabawan,2016,140.0,120-159,fig2_bin_midpoint,0.98,673
+Papar,2016,180.0,160-199,fig2_bin_midpoint,0.89,120
+Penampang,2016,140.0,120-159,fig2_bin_midpoint,0.97,35
+Pitas,2016,180.0,160-199,fig2_bin_midpoint,0.91,145
+Putatan,2016,140.0,120-159,fig2_bin_midpoint,0.6,5
+Ranau,2016,140.0,120-159,fig2_bin_midpoint,0.97,407
+Sandakan,2016,100.0,80-119,fig2_bin_midpoint,0.9,175
+Semporna,2016,215.0,200-229,fig2_bin_midpoint,1.0,84
+Sipitang,2016,140.0,120-159,fig2_bin_midpoint,0.98,251
+Tambunan,2016,140.0,120-159,fig2_bin_midpoint,0.99,126
+Tawau,2016,100.0,80-119,fig2_bin_midpoint,0.97,607
+Tenom,2016,140.0,120-159,fig2_bin_midpoint,1.0,209
+Tongod,2016,100.0,80-119,fig2_bin_midpoint,1.0,1140
+Tuaran,2016,180.0,160-199,fig2_bin_midpoint,0.9,98
+Beaufort,2017,140.0,120-159,fig2_bin_midpoint,0.96,179
+Beluran,2017,66.0,0-79,fig2_bin_midpoint,1.0,811
+Keningau,2017,180.0,160-199,fig2_bin_midpoint,0.86,385
+Kinabatangan,2017,66.0,0-79,fig2_bin_midpoint,0.97,766
+Kota Belud,2017,140.0,120-159,fig2_bin_midpoint,0.92,116
+Kota Kinabalu,2017,180.0,160-199,fig2_bin_midpoint,0.8,15
+Kota Marudu,2017,180.0,160-199,fig2_bin_midpoint,0.94,174
+Kuala Penyu,2017,140.0,120-159,fig2_bin_midpoint,0.88,9
+Kudat,2017,100.0,80-119,fig2_bin_midpoint,0.89,98
+Kunak,2017,140.0,120-159,fig2_bin_midpoint,0.89,109
+Lahad Datu,2017,140.0,120-159,fig2_bin_midpoint,0.88,774
+Nabawan,2017,180.0,160-199,fig2_bin_midpoint,0.97,657
+Papar,2017,140.0,120-159,fig2_bin_midpoint,0.92,119
+Penampang,2017,140.0,120-159,fig2_bin_midpoint,0.97,31
+Pitas,2017,180.0,160-199,fig2_bin_midpoint,0.87,149
+Putatan,2017,140.0,120-159,fig2_bin_midpoint,0.6,5
+Ranau,2017,140.0,120-159,fig2_bin_midpoint,0.97,403
+Sandakan,2017,100.0,80-119,fig2_bin_midpoint,0.93,171
+Semporna,2017,215.0,200-229,fig2_bin_midpoint,0.99,79
+Sipitang,2017,140.0,120-159,fig2_bin_midpoint,0.99,242
+Tambunan,2017,140.0,120-159,fig2_bin_midpoint,1.0,124
+Tawau,2017,100.0,80-119,fig2_bin_midpoint,0.97,605
+Tenom,2017,100.0,80-119,fig2_bin_midpoint,0.97,211
+Tongod,2017,100.0,80-119,fig2_bin_midpoint,0.98,1135
+Tuaran,2017,180.0,160-199,fig2_bin_midpoint,0.94,99
+Beaufort,2018,140.0,120-159,fig2_bin_midpoint,0.96,180
+Beluran,2018,66.0,0-79,fig2_bin_midpoint,1.0,801
+Keningau,2018,140.0,120-159,fig2_bin_midpoint,0.9,379
+Kinabatangan,2018,56.0,0-79,paper_text_exact,1.0,767
+Kota Belud,2018,100.0,80-119,fig2_bin_midpoint,0.95,117
+Kota Kinabalu,2018,140.0,120-159,fig2_bin_midpoint,0.79,19
+Kota Marudu,2018,180.0,160-199,fig2_bin_midpoint,0.9,180
+Kuala Penyu,2018,66.0,0-79,fig2_bin_midpoint,1.0,9
+Kudat,2018,100.0,80-119,fig2_bin_midpoint,0.92,84
+Kunak,2018,100.0,80-119,fig2_bin_midpoint,0.93,110
+Lahad Datu,2018,140.0,120-159,fig2_bin_midpoint,0.9,761
+Nabawan,2018,140.0,120-159,fig2_bin_midpoint,0.99,666
+Papar,2018,100.0,80-119,fig2_bin_midpoint,0.94,114
+Penampang,2018,140.0,120-159,fig2_bin_midpoint,0.94,33
+Pitas,2018,228.0,200-229,paper_text_exact,0.99,147
+Putatan,2018,140.0,120-159,fig2_bin_midpoint,0.5,7
+Ranau,2018,140.0,120-159,fig2_bin_midpoint,0.97,400
+Sandakan,2018,100.0,80-119,fig2_bin_midpoint,0.89,175
+Semporna,2018,228.0,200-229,paper_text_exact,1.0,85
+Sipitang,2018,100.0,80-119,fig2_bin_midpoint,1.0,249
+Tambunan,2018,140.0,120-159,fig2_bin_midpoint,0.99,124
+Tawau,2018,100.0,80-119,fig2_bin_midpoint,0.98,611
+Tenom,2018,100.0,80-119,fig2_bin_midpoint,0.99,211
+Tongod,2018,53.0,0-79,paper_text_exact,1.0,1131
+Tuaran,2018,180.0,160-199,fig2_bin_midpoint,0.9,100

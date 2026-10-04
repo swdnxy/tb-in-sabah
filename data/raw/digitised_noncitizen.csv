@@ -1,0 +1,26 @@
+district,noncitizen_pct,pct_bin,source,vote_share,n_pixels
+Beaufort,14.5,10-19,fig5_bin_midpoint,0.72,1921
+Beluran,34.5,30-39,fig5_bin_midpoint,0.9,9498
+Keningau,14.5,10-19,fig5_bin_midpoint,0.75,4474
+Kinabatangan,62.0,60-100,paper_text,0.79,8692
+Kota Belud,2.5,0-9,paper_text,0.92,1544
+Kota Kinabalu,34.5,30-39,fig5_bin_midpoint,0.55,300
+Kota Marudu,4.5,0-9,fig5_bin_midpoint,0.92,2183
+Kuala Penyu,4.5,0-9,fig5_bin_midpoint,0.49,151
+Kudat,14.5,10-19,fig5_bin_midpoint,0.82,1307
+Kunak,54.5,50-59,fig5_bin_midpoint,0.91,1248
+Lahad Datu,54.5,50-59,fig5_bin_midpoint,0.54,8581
+Nabawan,2.5,10-19,paper_text,0.83,2254
+Papar,24.5,20-29,fig5_bin_midpoint,0.73,1412
+Penampang,14.5,10-19,fig5_bin_midpoint,0.49,465
+Pitas,2.5,0-9,paper_text,0.93,1795
+Putatan,34.5,30-39,fig5_bin_midpoint,0.29,26
+Ranau,4.5,0-9,fig5_bin_midpoint,0.89,4736
+Sandakan,34.5,30-39,fig5_bin_midpoint,0.67,2125
+Semporna,44.5,40-49,fig5_bin_midpoint,0.38,662
+Sipitang,14.5,10-19,fig5_bin_midpoint,0.91,2262
+Tambunan,4.5,0-9,fig5_bin_midpoint,0.77,1578
+Tawau,34.5,30-39,fig5_bin_midpoint,0.45,5229
+Tenom,14.5,10-19,fig5_bin_midpoint,0.62,656
+Tongod,14.5,10-19,fig5_bin_midpoint,0.88,12735
+Tuaran,14.5,10-19,fig5_bin_midpoint,0.83,1299
